@@ -15,7 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{F3A904F1-2FBB-4397-8BEB-638B08ABAFA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaveManagement.Domain", "HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj", "{C3213A6A-4F38-464F-B94D-C0E1522F968C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HR.LeaveManagement.Domain", "HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj", "{C3213A6A-4F38-464F-B94D-C0E1522F968C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaveManagement.Application", "HR.LeaveManagement.Application\HR.LeaveManagement.Application.csproj", "{CE6E4F5C-0CC6-48F2-B842-B826AC5BF269}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C3213A6A-4F38-464F-B94D-C0E1522F968C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3213A6A-4F38-464F-B94D-C0E1522F968C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3213A6A-4F38-464F-B94D-C0E1522F968C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6E4F5C-0CC6-48F2-B842-B826AC5BF269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6E4F5C-0CC6-48F2-B842-B826AC5BF269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6E4F5C-0CC6-48F2-B842-B826AC5BF269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6E4F5C-0CC6-48F2-B842-B826AC5BF269}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +43,7 @@ Global
 		{8CDD98AD-FBFE-4709-A4AC-D9D9645A9EA6} = {2D151657-534F-45E3-8F01-7277600AC7E6}
 		{F3A904F1-2FBB-4397-8BEB-638B08ABAFA5} = {2D151657-534F-45E3-8F01-7277600AC7E6}
 		{C3213A6A-4F38-464F-B94D-C0E1522F968C} = {34786F68-579F-4976-8E5C-9FE520977AE8}
+		{CE6E4F5C-0CC6-48F2-B842-B826AC5BF269} = {34786F68-579F-4976-8E5C-9FE520977AE8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5053704D-BDC8-424E-BC6F-584038CB9C7D}
