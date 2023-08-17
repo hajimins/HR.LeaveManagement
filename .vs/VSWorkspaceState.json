@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HR.LeaveManagement.Domain\\Common"
   ],
-  "SelectedNode": "\\E:\\User\\source\\repos\\HR.LeaveManagement",
+  "SelectedNode": "\\HR.LeaveManagement.sln",
   "PreviewInSolutionExplorer": false
 }
