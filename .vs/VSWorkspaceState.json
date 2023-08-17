@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HR.LeaveManagement.Domain\\Common"
+    "\\HR.LeaveManagement.Application",
+    "\\HR.LeaveManagement.Application\\Persistence",
+    "\\HR.LeaveManagement.Application\\Persistence\\Contracts"
   ],
-  "SelectedNode": "\\HR.LeaveManagement.sln",
+  "SelectedNode": "\\HR.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveTypeRepository.cs",
   "PreviewInSolutionExplorer": false
 }
