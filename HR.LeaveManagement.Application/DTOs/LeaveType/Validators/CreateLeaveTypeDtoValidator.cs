@@ -10,9 +10,9 @@ namespace HR.LeaveManagement.Application.DTOs.LeaveType.Validators
         public CreateLeaveTypeDtoValidator()
         {
             RuleFor(p => p.Name)
-                .NotEmpty().WithMessage("{PropertyName} is required.")
-                .NotNull()
-                .MaximumLength(50).WithMessage("{PropertyName} should not exceed 50 characters");
+                            .NotEmpty().WithMessage("{PropertyName} is required.")
+                            .NotNull()
+                            .MaximumLength(50).WithMessage("{PropertyName} should not exceed 50 characters");
 
             RuleFor(p => p.DefaultDays)
                 .NotEmpty().WithMessage("{PropertyName} is required.")
