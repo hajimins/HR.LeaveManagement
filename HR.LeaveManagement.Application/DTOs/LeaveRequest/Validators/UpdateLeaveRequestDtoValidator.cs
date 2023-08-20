@@ -6,13 +6,15 @@ using System.Text;
 
 namespace HR.LeaveManagement.Application.DTOs.LeaveRequest.Validators
 {
-    public class CreateLeaveRequestDtoValidator : AbstractValidator<CreateLeaveRequestDto>
+    public class UpdateLeaveRequestDtoValidator : AbstractValidator<UpdateLeaveRequestDto>
     {
         private readonly ILeaveTypeRepository _leaveTypeRepository;
-        public CreateLeaveRequestDtoValidator(ILeaveTypeRepository leaveTypeRepository) 
+        public UpdateLeaveRequestDtoValidator(ILeaveTypeRepository leaveTypeRepository) 
         {
             _leaveTypeRepository = leaveTypeRepository;
             Include(new ILeaveRequestDtoValidator(_leaveTypeRepository));
+
+            RuleFor(p => p.Id).NotNull().WithMessage("{PropertyName} must not be null");
         }
     }
 }
