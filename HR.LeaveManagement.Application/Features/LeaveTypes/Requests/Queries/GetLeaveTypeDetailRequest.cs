@@ -6,7 +6,7 @@ using System.Text;
 
 namespace HR.LeaveManagement.Application.Features.LeaveTypes.Requests.Queries
 {
-    public class GetLeaveTypeDetailRequest : IRequest<LeaveTypeDto>
+    public class GetLeaveTypeDetailRequest : IRequest<UpdateLeaveTypeDto>
     {
         public int Id { get; set; }
     }
