@@ -1,0 +1,9 @@
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\netstandard2.1\HR.LeaveManagement.Infrastructure.deps.json
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\netstandard2.1\HR.LeaveManagement.Infrastructure.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\netstandard2.1\HR.LeaveManagement.Infrastructure.pdb
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HR.LeaveManagement.Infrastructure.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HR.LeaveManagement.Infrastructure.pdb
