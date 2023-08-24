@@ -28,3 +28,14 @@ E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\obj\Debug\net7.0\
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\obj\Debug\net7.0\HR.LeaveManagement.API.pdb
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\obj\Debug\net7.0\HR.LeaveManagement.API.genruntimeconfig.cache
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\obj\Debug\net7.0\ref\HR.LeaveManagement.API.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\AutoMapper.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\FluentValidation.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\MediatR.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\MediatR.Contracts.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb

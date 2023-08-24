@@ -5,7 +5,7 @@ using System.Text;
 
 namespace HR.LeaveManagement.Application.DTOs.LeaveType
 {
-    public class UpdateLeaveTypeDto : BaseDto, ILeaveTypeDto
+    public class LeaveTypeDto : BaseDto, ILeaveTypeDto
 
     {
         public string Name { get; set; }
