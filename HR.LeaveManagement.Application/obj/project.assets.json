@@ -498,11 +498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\User\\source\\repos\\ASP.NET-Core-Application-with-Clean-Architecture-main\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+      "projectUniqueName": "E:\\User\\source\\repos\\HR.LeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
       "projectName": "HR.LeaveManagement.Application",
-      "projectPath": "E:\\User\\source\\repos\\ASP.NET-Core-Application-with-Clean-Architecture-main\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+      "projectPath": "E:\\User\\source\\repos\\HR.LeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\User\\source\\repos\\ASP.NET-Core-Application-with-Clean-Architecture-main\\HR.LeaveManagement.Application\\obj\\",
+      "outputPath": "E:\\User\\source\\repos\\HR.LeaveManagement\\HR.LeaveManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -525,8 +525,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\User\\source\\repos\\ASP.NET-Core-Application-with-Clean-Architecture-main\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
-              "projectPath": "E:\\User\\source\\repos\\ASP.NET-Core-Application-with-Clean-Architecture-main\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
+            "E:\\User\\source\\repos\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+              "projectPath": "E:\\User\\source\\repos\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
             }
           }
         }
