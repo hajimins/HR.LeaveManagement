@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HR.LeaveManagement.Infrastructure
-build_property.ProjectDir = E:\User\source\repos\ASP.NET-Core-Application-with-Clean-Architecture-main\HR.LeaveManagement.Infrastructure\
+build_property.ProjectDir = E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\
