@@ -97,6 +97,7 @@ E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Azure.Identity.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\FluentValidation.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Humanizer.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\MediatR.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\MediatR.Contracts.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
@@ -105,8 +106,10 @@ E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
@@ -118,12 +121,14 @@ E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Mono.TextTemplating.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Newtonsoft.Json.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\SendGrid.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\StarkbankEcdsa.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\System.CodeDom.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\System.Drawing.Common.dll
 E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
