@@ -1,0 +1,8 @@
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.MVC\obj\Debug\net6.0\HR.LeaveManagement.MVC.csproj.AssemblyReference.cache
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.MVC\obj\Debug\net6.0\HR.LeaveManagement.MVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.MVC\obj\Debug\net6.0\HR.LeaveManagement.MVC.AssemblyInfoInputs.cache
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.MVC\obj\Debug\net6.0\HR.LeaveManagement.MVC.AssemblyInfo.cs
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.MVC\obj\Debug\net6.0\HR.LeaveManagement.MVC.csproj.CoreCompileInputs.cache
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.MVC\obj\Debug\net6.0\HR.LeaveManagement.MVC.MvcApplicationPartsAssemblyInfo.cache
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.MVC\obj\Debug\net6.0\HR.LeaveManagement.MVC.RazorAssemblyInfo.cache
+E:\User\source\repos\HR.LeaveManagement\HR.LeaveManagement.MVC\obj\Debug\net6.0\HR.LeaveManagement.MVC.RazorAssemblyInfo.cs
